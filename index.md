@@ -12,3 +12,6 @@ def test():
   print('This is a test function')
 ;
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
