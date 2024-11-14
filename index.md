@@ -4,3 +4,5 @@
 #### Just below average
 ##### Getting smaller
 ###### I should be pretty small
+
+![Image of Yaktocat because I'm not creative](https://octodex.github.com/images/yaktocat.png)
